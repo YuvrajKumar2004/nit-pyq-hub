@@ -4,9 +4,13 @@ A React-based web application for NIT Agartala students to upload, view, and acc
 Features
 
 ->Upload and view PYQs for each year (1st Year, 2nd Year, 3rd Year, 4th Year).
+
 ->Search functionality to quickly find specific PYQs.
+
 ->Organized sections for easy navigation.
+
 ->Data persistence using localStorage for user uploads.
+
 ->Fully responsive design.
 
  Screenshots
