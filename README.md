@@ -18,13 +18,19 @@ Features
 Technologies Used
 
  ->React.js (v18+)
+ 
 ->JavaScript (ES6+)
+
 ->CSS for styling
+
 ->LocalStorage for persistent data
 
 Future Enhancements
 
 ->Backend integration for database storage of PYQs.
+
 ->User authentication and roles (students, seniors, admins).
+
 ->PDF preview and download support.
+
 ->Advanced search and filters.
